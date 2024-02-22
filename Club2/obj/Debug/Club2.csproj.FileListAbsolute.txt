@@ -1,0 +1,8 @@
+C:\Users\Cine Student\source\repos\Club2\bin\Debug\Club2.exe.config
+C:\Users\Cine Student\source\repos\Club2\bin\Debug\Club2.exe
+C:\Users\Cine Student\source\repos\Club2\bin\Debug\Club2.pdb
+C:\Users\Cine Student\source\repos\Club2\obj\Debug\Club2.csproj.AssemblyReference.cache
+C:\Users\Cine Student\source\repos\Club2\obj\Debug\Club2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cine Student\source\repos\Club2\obj\Debug\Club2.csproj.CoreCompileInputs.cache
+C:\Users\Cine Student\source\repos\Club2\obj\Debug\Club2.exe
+C:\Users\Cine Student\source\repos\Club2\obj\Debug\Club2.pdb
